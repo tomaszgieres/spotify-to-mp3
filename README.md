@@ -90,7 +90,6 @@ $ rspec
 
 - Consider multiple artists songs
 - Filter Grooveshark results by artist, title and length
-- Accept tracks from stdin (instead of from a file, to drag songs directly to the app)
 - Exit with a single Ctrl+C
 - Cleaner output
 - Don't pick remixes
